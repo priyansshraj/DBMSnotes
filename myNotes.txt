@@ -1,1 +1,8 @@
+SQL stands for Structured Query Language, was developed in 1970s by IBM researchers Raymond Boyce and Donald Chamberlin.
+Today, SQL is accepted as the standard RDBMS language.
 
+Using SQL we can perform following operations:
+(i) DDL (Date Definition Language) - CREATE, ALTER, DROP
+(ii) DML (Date Manipulation Language) - INSERT, UPDATE, DELETE
+(iii) DCL (Date Control Language) - GRANT, REVOKE
+(iV) DQL (Date Query Language)- SELECT
