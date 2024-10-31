@@ -6,3 +6,6 @@ Using SQL we can perform following operations:
 (ii) DML (Date Manipulation Language) - INSERT, UPDATE, DELETE
 (iii) DCL (Date Control Language) - GRANT, REVOKE
 (iV) DQL (Date Query Language)- SELECT
+
+# Fetching only few rows from all the data (in Oracle):
+select * from tableName fetch first 5 rows only;
